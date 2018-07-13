@@ -1,6 +1,6 @@
 ---
--hosts:ip
- geather_facts:no
+-hosts: ip
+ geather_facts: no
  task:
- -name:ping machines
+ -name: ping machines
    pimg:
