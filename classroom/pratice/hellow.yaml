@@ -1,0 +1,6 @@
+---
+-hosts:ip
+ geather_facts:no
+ task:
+ -name:ping machines
+   pimg:
